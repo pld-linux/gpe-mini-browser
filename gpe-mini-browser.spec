@@ -7,7 +7,7 @@ License:	GPL
 Group:		Applications/Communications
 Source0:	http://gpe.linuxtogo.org/download/source/%{name}-%{version}.tar.gz
 # Source0-md5:	1a7a4095cafed9cda21e500842b686a1
-URL:		http://gpe.linuxtogo.org
+URL:		http://gpe.linuxtogo.org/projects/gpe-mini-browser.shtml
 BuildRequires:	gtk+2-devel >= 2:2.10.7
 BuildRequires:	libgpewidget-devel
 BuildRequires:	osb-nrcit-devel
