@@ -1,5 +1,5 @@
-#
 Summary:	GPE mini browser
+Summary(pl.UTF-8):	Mała przeglądarka GPE
 Name:		gpe-mini-browser
 Version:	0.20
 Release:	1
@@ -16,6 +16,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Mini browser for GPE embedded devices.
+
+%description -l pl.UTF-8
+Mała przeglądarka GPE dla urządzeń wbudowanych.
 
 %prep
 %setup -q
