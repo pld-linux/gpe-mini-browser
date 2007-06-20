@@ -1,12 +1,12 @@
 Summary:	GPE mini browser
 Summary(pl.UTF-8):	Mała przeglądarka GPE
 Name:		gpe-mini-browser
-Version:	0.20
+Version:	0.21
 Release:	1
 License:	GPL
 Group:		Applications/Communications
 Source0:	http://gpe.linuxtogo.org/download/source/%{name}-%{version}.tar.gz
-# Source0-md5:	1a7a4095cafed9cda21e500842b686a1
+# Source0-md5:	a1297dfd14c008e3415f89b01eef75cd
 URL:		http://gpe.linuxtogo.org/projects/gpe-mini-browser.shtml
 BuildRequires:	gtk+2-devel >= 2:2.10.7
 BuildRequires:	libgpewidget-devel
