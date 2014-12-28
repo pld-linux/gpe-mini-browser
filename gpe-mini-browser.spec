@@ -8,7 +8,7 @@ Group:		Applications/Communications
 Source0:	http://gpe.linuxtogo.org/download/source/%{name}-%{version}.tar.gz
 # Source0-md5:	a1297dfd14c008e3415f89b01eef75cd
 URL:		http://gpe.linuxtogo.org/projects/gpe-mini-browser.shtml
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	gtk+2-devel >= 2:2.10.7
 BuildRequires:	libgpewidget-devel
 BuildRequires:	osb-nrcit-devel
